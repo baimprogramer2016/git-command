@@ -9,7 +9,7 @@ setting global
 
 git config --global user.name 'Anhari' 
 
-git config --global user.email 'baimprogramer@gmail.com' 
+git config --global user.email 'email@gmail.com' 
 
 Work
 git status => melihat file2 yang untrack dan commit
